@@ -1,5 +1,5 @@
 #Panda Run#
-![enter image description here](http://cdn.cocimg.com/bbs/attachment/Fid_59/59_324039_787428bf3d82293.jpg)
+![enter image description here](https://raw.githubusercontent.com/ele828/panda-run/master/panda_run.jpeg)
 
 ### Game Server
 https://github.com/maxon-team/panda_run_server
