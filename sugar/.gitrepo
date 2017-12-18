@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:ele828/sugar.git
+	branch = master
+	commit = 3860b50a114198a2cf011e4221a9694ee3b972e4
+	parent = bf79585859076d448e16d9781245b559ecab25b4
+	cmdver = 0.3.1
