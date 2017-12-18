@@ -6,6 +6,6 @@
 [subrepo]
 	remote = git@github.com:ele828/sugar.git
 	branch = master
-	commit = 3860b50a114198a2cf011e4221a9694ee3b972e4
-	parent = bf79585859076d448e16d9781245b559ecab25b4
+	commit = 06368066043c6e94b710a963e7094e04df59b874
+	parent = 5f3a92fdf47c7bdccfc4991796d7e24bce1c67d0
 	cmdver = 0.3.1

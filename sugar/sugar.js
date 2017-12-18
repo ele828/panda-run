@@ -2,7 +2,7 @@
  * A simple HTML template engine.
  * Author: Eric Wong (ele828@gmail.com)
  * https://www.dobest.me
- *
+ * Test remote update
  */
 (function(root, sugar) {
     // export sugar class
